@@ -12,7 +12,11 @@ public class JDBCUtil {
     private static String url = "jdbc:mysql://localhost:3306/Ricardo?serverTimezone=UTC";
     private static String user = "root";
     private static String password = "123456";
-//aaaaaaaaaa
+<<<<<<< HEAD
+//aaaaaaaaaaasdfasdfsa
+=======
+//iuy
+>>>>>>> d5387677579cd177ca9d79f89adb9dda86079616
     static {
         try {
             Class.forName(driverName);
